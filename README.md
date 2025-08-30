@@ -1,20 +1,20 @@
 # Audio-classification-Deeplearning
-# 🎵 Urban Sound Classification using Deep Learning  
+# Urban Sound Classification using Deep Learning  
 
-## 📌 Project Overview  
+## Project Overview  
 This project classifies **urban sound events** (such as sirens, car horns, drilling, etc.) using **deep learning models** trained on the [UrbanSound8K dataset](https://urbansounddataset.weebly.com/urbansound8k.html).  
 Achieved **89% accuracy** by extracting **MFCC features** and training a neural network with TensorFlow & Keras.  
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙ Tech Stack  
 - **Language:** Python  
 - **Libraries:** TensorFlow, Keras, NumPy, Pandas, Librosa, Scikit-learn, Matplotlib  
 - **Dataset:** UrbanSound8K  
 
 ---
 
-## 🚀 Features  
+##  Features  
 - End-to-end ML pipeline (preprocessing → training → evaluation → prediction)  
 - **Feature Extraction:** MFCCs (Mel-Frequency Cepstral Coefficients)  
 - **Model:** Deep Neural Network (CNN / LSTM variations possible)  
@@ -23,7 +23,7 @@ Achieved **89% accuracy** by extracting **MFCC features** and training a neural 
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 ```bash
 ├── data/                  # UrbanSound8K dataset
 ├── notebooks/             # Jupyter notebooks for experiments
@@ -35,7 +35,7 @@ Achieved **89% accuracy** by extracting **MFCC features** and training a neural 
 │   └── predict.py         # Predict on new audio file
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
-🛠️ Installation & Setup
+ Installation & Setup
 
 Clone this repository:
 git clone https://github.com/Tejaswicsd/Audio-classification-Deeplearning.git
@@ -56,13 +56,13 @@ Results
 Achieved ~89% accuracy on the UrbanSound8K dataset.
 
 MFCCs proved highly effective for urban sound recognition.
-📌 Future Enhancements
+Future Enhancements
 
 Experiment with CNN + LSTM hybrid models for better temporal feature extraction.
 
 Deploy as a Flask / FastAPI web app for real-time audio classification.
 
 Optimize model for edge devices.
-👨‍💻 Author
+ Author
 
 Tejaswi Guttula
