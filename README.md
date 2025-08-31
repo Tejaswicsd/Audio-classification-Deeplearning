@@ -7,7 +7,7 @@ Achieved **89% accuracy** by extracting **MFCC features** and training a neural 
 
 ---
 
-## ⚙ Tech Stack  
+## Tech Stack  
 - **Language:** Python  
 - **Libraries:** TensorFlow, Keras, NumPy, Pandas, Librosa, Scikit-learn, Matplotlib  
 - **Dataset:** UrbanSound8K  
