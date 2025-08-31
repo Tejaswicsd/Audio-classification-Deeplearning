@@ -1,5 +1,5 @@
 # Audio-classification-Deeplearning
-# Urban Sound Classification using Deep Learning  
+# Urban Sound Classification using Deep Learning  (personal project)
 
 ## Project Overview  
 This project classifies **urban sound events** (such as sirens, car horns, drilling, etc.) using **deep learning models** trained on the [UrbanSound8K dataset](https://urbansounddataset.weebly.com/urbansound8k.html).  
