@@ -62,7 +62,4 @@ Experiment with CNN + LSTM hybrid models for better temporal feature extraction.
 
 Deploy as a Flask / FastAPI web app for real-time audio classification.
 
-Optimize model for edge devices.
- Author
 
-Tejaswi Guttula
