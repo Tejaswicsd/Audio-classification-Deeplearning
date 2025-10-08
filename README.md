@@ -53,7 +53,7 @@ Predicting a New Audio File:
 python src/predict.py --file sample.wav
 Results
 
-Achieved ~89% accuracy on the UrbanSound8K dataset.
+Achieved ~90% accuracy on the UrbanSound8K dataset.
 
 MFCCs proved highly effective for urban sound recognition.
 Future Enhancements
